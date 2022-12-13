@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/samuel405/bull-simple-queue/issues"
   },
-  "homepage": "https://github.com/samuel405/bull-simple-queue#readme"
+  "homepage": "https://github.com/samuel405/bull-simple-queue#readme",
+  "dependencies": {
+    "bull": "^4.10.2",
+    "dotenv": "^16.0.3"
+  }
 }
