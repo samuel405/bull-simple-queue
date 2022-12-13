@@ -1,0 +1,19 @@
+{
+  "name": "bull-simple-queue",
+  "version": "1.0.0",
+  "description": "Simple Bull Queu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel405/bull-simple-queue.git"
+  },
+  "author": "Samuel da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel405/bull-simple-queue/issues"
+  },
+  "homepage": "https://github.com/samuel405/bull-simple-queue#readme"
+}
